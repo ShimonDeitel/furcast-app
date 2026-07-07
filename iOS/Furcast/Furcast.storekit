@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "nc1",
+      "localizations": [
+        {
+          "description": "Side-by-side photo comparison timeline",
+          "displayName": "Furcast Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "furcast_pro_compare",
+      "referenceName": "Furcast Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
